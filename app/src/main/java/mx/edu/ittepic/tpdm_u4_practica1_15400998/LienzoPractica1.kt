@@ -219,10 +219,5 @@ class LienzoPractica1(p: MainActivity): View(p){
         c.drawCircle(1850f, 800f, 16f, p)
         c.drawCircle(2050f, 800f, 16f, p)
         //</estrellas>
-        /*p.color = Color.RED
-        p.textSize = 40f
-        c.drawText("Miguel Garcia", 100f, 100f, p)*/
-        
-
     }
 }
