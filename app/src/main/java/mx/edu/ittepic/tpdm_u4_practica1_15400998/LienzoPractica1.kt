@@ -208,12 +208,6 @@ class LienzoPractica1(p: MainActivity): View(p){
         c.drawCircle(2150f, 700f, 18f, p)
 
         //----------------------------------------------
-        c.drawCircle(250f, 800f, 16f, p)
-        c.drawCircle(450f, 800f, 16f, p)
-        c.drawCircle(650f, 800f, 16f, p)
-        c.drawCircle(850f, 800f, 16f, p)
-        c.drawCircle(1050f, 800f, 16f, p)
-        c.drawCircle(1250f, 800f, 16f, p)
         c.drawCircle(1450f, 800f, 16f, p)
         c.drawCircle(1650f, 800f, 16f, p)
         c.drawCircle(1850f, 800f, 16f, p)
